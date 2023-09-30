@@ -6,6 +6,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-<img src="pass.png" alt="Password Generator" width="400"/>
 
-
+![PasswordGenerator](https://github.com/sanjay-gitwork/Advance-Password-Generator/assets/25552702/98368a55-51ce-423c-be96-0a3a0da50092)
